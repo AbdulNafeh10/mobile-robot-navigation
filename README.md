@@ -1,4 +1,4 @@
-<img width="1622" height="675" alt="image" src="https://github.com/user-attachments/assets/334ce07f-9542-4d5a-b92f-b9ae55533145" />
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/f63f9066-06ee-4208-8b65-133ed4bdff53" />
 
 # Mobile Robot Navigation
 
