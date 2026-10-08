@@ -1,3 +1,5 @@
+<img width="1622" height="675" alt="image" src="https://github.com/user-attachments/assets/334ce07f-9542-4d5a-b92f-b9ae55533145" />
+
 # Mobile Robot Navigation
 
 A Webots robotics project exploring mobile robot navigation through four stages: differential-drive kinematics, LiDAR wall following, camera-based target tracking, and autonomous obstacle avoidance.
